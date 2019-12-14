@@ -89,11 +89,11 @@
 .slider:before {
   position: absolute;
   content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  border-radius: 50%;
+  height: 134px; /*26px*/
+  width: 60px; /*26px*/
+  left: 60px; /*4px*/
+  bottom: 12px; /*4px*/
+  border-radius: 34px; /*34px*/
   background-color: white;
   -webkit-transition: .4s;
   transition: .4s;
